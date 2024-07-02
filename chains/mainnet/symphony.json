@@ -2,13 +2,13 @@
     "chain_name": "symphony",
     "api": [
       {
-        "address": "https://lcd.testnet.symphonychain.org",
+        "address": "https://symphony-api.kleomedes.network/",
         "provider": "Orchestra Labs"
       }
     ],
     "rpc": [
       {
-        "address": "https://rpc.testnet.symphonychain.org",
+        "address": "https://symphony-rpc.kleomedes.network/",
         "provider": "Orchestra Labs"
       }
     ],
