@@ -1,0 +1,18 @@
+{
+    "chain_name": "symphony-testnet",
+    "api": ["https://lcd.testnet.symphonychain.org"],
+    "rpc": ["https://rpc.testnet.symphonychain.org"],
+    "sdk_version": "0.45",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "assets": [{
+        "base": "note",
+        "symbol": "MLD",
+        "exponent": "6",
+        "coingecko_id": "MLD", 
+        "logo": ""
+    }], 
+    "addr_prefix": "symphony",
+    "theme_color": "#ce4747",
+    "logo": ""
+}
